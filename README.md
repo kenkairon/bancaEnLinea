@@ -40,4 +40,5 @@ Si el usuario selecciona “Realizar depósito”, se muestra el saldo actual (l
 los saldos son permanentes en la ejecución del programa. Si el usuario hizo un giro
 previamente, el saldo actual será el que quedó después del giro) y la opción para registrar
 cuando desea depositar.
+
 • El saldo disponible se actualiza constantemente:
