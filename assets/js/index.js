@@ -1,4 +1,4 @@
-// Constructor
+// Constructor de Clientes del Banco
 function Clientes(nombre, identificador, clave, saldo) {
     this.nombre = nombre;
     this.identificador = identificador;
@@ -63,5 +63,5 @@ function verificarCliente() {
     alert("Error: Identificador o clave incorrectos.");
 }
 
-// Ejemplo de uso
+// Llamado a la función verificar cliente
 verificarCliente();
